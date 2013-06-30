@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-after branch master commit
-=======
-branched file
->>>>>>> origin/branch1
+merged file
