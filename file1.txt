@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 after branch master commit
+=======
+branched file
+>>>>>>> origin/branch1
